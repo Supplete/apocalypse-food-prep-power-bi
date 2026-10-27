@@ -29,5 +29,3 @@ The project uses the Apocalypse Food Prep dataset sourced from Alex the Analyst'
 ## Project Status
 Completed as my first Power BI practice project. I look forward to learning more and building additional data analytics projects.
 
-## Acknowledgements
-Thanks to Alex the Analyst for the learning resource and to my mentors and the Tech Mentorship Program community for supporting my learning journey.
